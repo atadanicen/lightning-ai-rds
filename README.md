@@ -7,9 +7,9 @@ Welcome to the Lightning AI Studio RDS repository! This project aims to streamli
 Explore step-by-step instructions to set up Lightning AI RDS on your development environment.
 
 1. Install the requirements
-```
-pip install requirements.txt
-```
+    ```
+    pip install requirements.txt
+    ```
 2. Establish your SSH connection by following the Lightning AI guide.
 3. Setup your terminal.
  
