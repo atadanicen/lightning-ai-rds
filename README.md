@@ -19,11 +19,11 @@ Explore step-by-step instructions to set up Lightning AI RDS on your development
         ```
 4. Please modify the required settings within the `scripts.sh` file.
 5. To find your credentials, click on your profile picture in the top right corner and select `Global Settings`.
-![find the studio details](src/ss2.jpeg "How to find the studio name ?")
+![select global settings](src/ss2.jpeg "How to login via CLI?")
  - Then select Keys section on the left.
- ![find the studio details](src/ss3.jpeg "How to find the studio name ?")
+ ![select keys](src/ss3.jpeg)
   - Copy the Login via CLI code block and then paste in to your terminal window.
- ![find the studio details](src/ss4.jpeg "How to find the studio name ?")
+ ![copy the login via CLI code block](src/ss4.jpeg)
 
 6. Locate your studio information and make the necessary modifications in the `boot_rds.py` file.
 ![find the studio details](src/ss1.jpeg "How to find the studio name ?")
