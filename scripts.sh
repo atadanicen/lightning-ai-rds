@@ -6,5 +6,5 @@ function start_rds(){
 
 # Replace the `your_ssh_username` with your ssh username.
 function ssh_rds(){
-    python your_ssh_username@ssh.lightning.ai
+    ssh your_ssh_username@ssh.lightning.ai
 }
